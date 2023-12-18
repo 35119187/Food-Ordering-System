@@ -1,6 +1,5 @@
 # Food-Ordering-System
 
-Title
 FOOD ORDERING SYSTEM
 
 ## Table of Contents
